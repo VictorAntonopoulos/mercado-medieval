@@ -14,7 +14,7 @@ git clone https://github.com/VictorAntonopoulos/mercado-medieval.git
 cd mercado-medieval
 
 ## 🚀 Como Executar
-./mvnw spring-boot:run}
+./mvnw spring-boot:run
 
 ✅ URL do Swagger
 👉 http://localhost:8080/api/swagger-ui/index.html
